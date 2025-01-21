@@ -1,0 +1,8 @@
+[build]
+  base = "./"
+  publish = "./dist/"
+  command = "npm run build"
+
+[template.environment]
+  NAME = "Kak Caca"
+  PIC = "https://telegra.ph/file/71c8cbfb5f18f2cbe4aa7.jpg"
